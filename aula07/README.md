@@ -1,30 +1,30 @@
-\# Primeiro passo
+# Primeiro passo
 
 
 
-\*Criar tabelas
+*Criar tabelas
 
 
 
-\# Segundo passo
+# Segundo passo
 
 
 
-\*Criar procedures
+*Criar procedures
 
 
 
-\# Terceiro passo
+# Terceiro passo
 
 
 
-\*Criar triggers
+*Criar triggers
 
 
 
-\# Quarto passo
+# Quarto passo
 
 
 
-\*Dar carga com popular
+*Dar carga com popular
 
